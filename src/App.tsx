@@ -1,4 +1,10 @@
+import LocationLayer from "./components/location-layer";
+
 const App = () => {
-  return <div>Shoud I bring an umbrella?</div>;
+  return (
+    <div>
+      <LocationLayer />
+    </div>
+  );
 };
 export default App;
