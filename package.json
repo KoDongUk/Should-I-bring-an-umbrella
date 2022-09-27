@@ -6,7 +6,8 @@
   "dependencies": {
     "prettier": "^2.7.1",
     "react": "^18.2.0",
-    "react-dom": "^18.2.0"
+    "react-dom": "^18.2.0",
+    "react-hook-geolocation": "^1.1.0"
   },
   "scripts": {
     "dev": "webpack-dev-server --config config/webpack.dev.js",
